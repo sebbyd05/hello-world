@@ -1,4 +1,3 @@
 # hello-world
-# Hello human
-# Welcome to this get project
-# This i just a test
+welcome to this rpeository of gethub origins, i'm just learning how to use this thing so sorry if
+there are any mistakes.
